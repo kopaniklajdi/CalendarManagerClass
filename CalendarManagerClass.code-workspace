@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/CalendarManager_Qodana/bin"
+		},
+		{
+			"path": "../../../Downloads/CalendarManager_Qodana/doc"
+		},
+		{
+			"path": "../../../Downloads/CalendarManager_Qodana/img"
+		},
+		{
+			"path": "../../../Downloads/CalendarManager_Qodana/src"
+		}
+	],
+	"settings": {}
+}
